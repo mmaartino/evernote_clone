@@ -1,0 +1,9 @@
+key1:
+1be6464f739749d6808366aec7a04aef
+
+key2:
+c20f001e8a274e6f8d9b52e977058599
+
+
+region:
+westeurope
